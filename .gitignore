@@ -1,0 +1,7 @@
+.venv/
+Mail-Automate/venv/
+.env
+data/contacts.local.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
